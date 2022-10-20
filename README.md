@@ -10,7 +10,7 @@
   - [Hacking Collection](https://github.com/cKtheGrey/Hacking-Collection)
   - [Exstensive List of CyberSecurity Links](https://github.com/cKtheGrey/CybSec-Links)
 
-Connect with me:  [linkedin]: (https://linkedin.com/in/chadha-krish)
+Connect with me! : https://linkedin.com/in/chadha-krish
 
 <!--
 
