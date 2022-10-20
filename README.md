@@ -10,12 +10,8 @@
   - [Hacking Collection](https://github.com/cKtheGrey/Hacking-Collection)
   - [Exstensive List of CyberSecurity Links](https://github.com/cKtheGrey/CybSec-Links)
 
-<h2> 🤳 Connect with me:</h2>
-
-[linkedin]: https://linkedin.com/in/chadha-krish
+Connect with me:  [linkedin]: (https://linkedin.com/in/chadha-krish)
 
 <!--
-
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
