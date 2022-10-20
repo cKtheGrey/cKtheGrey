@@ -1,6 +1,6 @@
-<h1>Hi, I'm Krish! <br/><a href="https://github.com/cKtheGrey">Budding Cybersecurity Expert</a></h1>
+<h1>Hi, I'm Krish! <br/><a href="https://github.com/cKtheGrey">Budding Cybersecurity Expert 🌐🔐 </a></h1>
 
-<h2>👨‍💻 Cyber Security Projects and Repos:</h2>
+<h2>💻 Cyber Security Projects and Repos:</h2>
 
 - <b>Projects</b>
   - [Red vs Blue](https://github.com/cKtheGrey/Red-vs-Blue)
