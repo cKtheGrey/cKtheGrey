@@ -14,7 +14,7 @@ Training towards Security+, Network+, and CISSP.
 
 - <b>Repos</b>
   - [Hacking Collection](https://github.com/cKtheGrey/Hacking-Collection)
-  - [Extensive List of CyberSecurity Links](https://github.com/cKtheGrey/CybSec-Links)
+  - [Extensive List of CyberSecurity Links](https://github.com/cKtheGrey/CybSec-Links/wiki)
 
 
 
