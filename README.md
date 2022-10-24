@@ -1,4 +1,4 @@
-<h1>Hi, I'm Krish! <br/><a href="https://github.com/cKtheGrey"> Budding Cybersecurity Expert 🔐 </a></h1>
+<h1>whoami Krish Chadha <br/><a href="https://github.com/cKtheGrey"> Budding Cybersecurity Expert 🔐 </a></h1>
 
 
 🌱 I’m currently gaining a deeper understanding of Cybersecurity.
