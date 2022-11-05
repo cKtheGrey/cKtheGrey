@@ -13,8 +13,9 @@ Training towards Security+, Network+, and CISSP.
   - [ELK Stack Development Project](https://github.com/cKtheGrey/Elk-Project)
 
 - <b>Repos</b>
+  - [My List of CyberSecurity Links](https://github.com/cKtheGrey/CybSec-Links/wiki)
   - [Hacking Collection](https://github.com/cKtheGrey/Hacking-Collection)
-  - [Extensive List of CyberSecurity Links](https://github.com/cKtheGrey/CybSec-Links/wiki)
+ 
 
 
 
