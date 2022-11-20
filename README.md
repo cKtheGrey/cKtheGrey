@@ -9,7 +9,8 @@ Training towards Security+, Network+, and CISSP.
 <h2>💻 Cyber Security Projects and Repos:</h2>
 
 - <b>Projects</b>
-- [My Anti Laptop Theft Script] (https://github.com/cKtheGrey/Anti-Theft-Laptop-Script)
+  - [My Anti Laptop Theft Script](https://github.com/cKtheGrey/Anti-Theft-Laptop-Script)
+  
   - [Red vs Blue Project](https://github.com/cKtheGrey/Red-vs-Blue)
   - [ELK Stack Development Project](https://github.com/cKtheGrey/Elk-Project)
 
