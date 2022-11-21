@@ -17,6 +17,7 @@ Training towards Security+, Network+, and CISSP.
 - <b>Repos</b>
   - [My List of CyberSecurity Links](https://github.com/cKtheGrey/CybSec-Links/wiki)
   - [Hacking Collection](https://github.com/cKtheGrey/Hacking-Collection)
+  - [Exhaustive List of OSINT Tools](https://sizeof.cat/post/osint-resources/) 
   - [Live Malware Analysis Sandbox hosted on website](https://sandbox.anlyz.io/dashboard) 
  
 
