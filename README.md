@@ -19,7 +19,8 @@ Training towards Security+, Network+, and CISSP.
   - [Hacking Collection](https://github.com/cKtheGrey/Hacking-Collection)
   - [Exhaustive List of OSINT Tools](https://sizeof.cat/post/osint-resources/) 
   - [Live Malware Analysis Sandbox hosted on website](https://sandbox.anlyz.io/dashboard) 
- 
+  - [DL & display images from National Gallery of Canada + Tate Fine Art Collection](https://github.com/cKtheGrey/Fine-Art-Wallpaper-Cycle)
+  
 
 
 
