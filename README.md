@@ -4,7 +4,6 @@
 🌱 I’m currently gaining a deeper understanding of Cybersecurity.
 
 🌐 Wide breadth of knowledge and further depth in certain aspects such as command line and shell scripting, windows and linux system administration, penetration testing (Metasploit), SIEMS (Splunk and Elk), cloud security (Azure), Wireshark, Burpsuite, and IDS/IPS (Snort).
-Training towards Security+, Network+, and CISSP.
 
 <h2>💻 Cyber Security Projects and Repos:</h2>
 
